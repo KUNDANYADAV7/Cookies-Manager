@@ -1,0 +1,31 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+input {
+    margin-right: 5px;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: rgba(95, 158, 160, 0.863);
+}
+
+button {
+    padding: 12px;
+    border-radius: 4px;
+}
